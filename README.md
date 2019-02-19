@@ -1,5 +1,5 @@
 # WilsonDiseaseMachineLearning (Cooperation Project)
-Utilized machine learning models to classify two types of Wilson disease from training cohort blood methylation levels and predicted in the independent testing cohort.
+Analysis scripts on utilizing machine learning models to classify two types of Wilson disease from training cohort blood methylation levels and predicted in the independent testing cohort.
 
 This is a cooperation project. I am in charge of the Machine Learning Prediction part of the study launched by Charles Mordaunt.
 
